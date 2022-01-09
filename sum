@@ -1,0 +1,4 @@
+int a,b,c 
+int sum 
+sum = a+b+c
+print sum 
